@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mlovera Magic Engineer at Tagshelf.
+- 👋 Hi, I’m @mlovera Software Engineer at Tagshelf.
 - 👀 I’m interested in software engineering, solving problems.
 - 🌱 I’m currently learning about multi-services: kubernetes, docker, kafka, redis, job scheduling libraries and multi-threading, Azure, GCP.
 - 💞️ I’m looking to collaborate on meaningful projects.
