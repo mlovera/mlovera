@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning about backend development, data science and machine learning.
 - 💞️ I’m looking to collaborate on meaningful projects.
 - 📫 How to reach me: [linkedin](https://do.linkedin.com/in/manaseslovera).
-- ⚡ Fun fact: I was an actor as a kid and participated in a movie, ads and short films.
